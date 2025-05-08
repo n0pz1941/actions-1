@@ -1,3 +1,7 @@
+name: first workflow
+
+on: push
+
 jobs:
   First_job:
     runs-on: ubuntu-latest
