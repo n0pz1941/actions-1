@@ -11,7 +11,3 @@ jobs:
   
     - name: Read file
       run: cat README.md
-
-    - name: read file
-    cat README.md
-    
